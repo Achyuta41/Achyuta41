@@ -40,8 +40,8 @@ A **handmade product e-commerce** site for online sales and brand promotion.
 
 ## 📊 GitHub Stats
 
-![Achyuta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=achyuta-k&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achyuta-k&layout=compact&theme=radical)
+![Achyuta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Achyuta41&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achyuta41&layout=compact&theme=radical)
 
 ---
 
